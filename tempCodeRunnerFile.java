@@ -1,1 +1,2 @@
- 1381. Design a Stack With Increment Operation
+r(int e:a)
+        // Syst
